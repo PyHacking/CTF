@@ -28,7 +28,7 @@ PORT   STATE SERVICE VERSION
 |_  256 3005cc52c66f6504860f7241c8a439cf (ED25519)
 80/tcp open  http    Apache httpd 2.4.29 ((Ubuntu))
 |_http-title: Game Info
-|_http-server-header: Apache/2.4.29 (Ubuntu)
+|_http-server-header: Apache/2.4.29 (Ubuntu) 
 Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
