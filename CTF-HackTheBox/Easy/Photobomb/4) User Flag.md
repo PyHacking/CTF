@@ -1,4 +1,4 @@
-
+```
 wizard@photobomb:~/photobomb$ ls
 ls
 exploit
@@ -44,3 +44,4 @@ drwxrwxr-x 6 wizard wizard 4096 Nov  1 19:41 photobomb
 wizard@photobomb:~$ cat user.txt
 cat user.txt
 6d9aae5dbee4c37dfd87f6c429fffe5a
+```
