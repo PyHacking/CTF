@@ -15,7 +15,7 @@ The `Academy` machine is an easy linux box.
 
 I do a `nmap scan`:
 
-```
+```sh
 ┌──(kali㉿kali)-[~]
 └─$ nmap -A -sC -sV 10.10.10.215
 Starting Nmap 7.94 ( https://nmap.org ) at 2023-07-18 02:40 EDT
