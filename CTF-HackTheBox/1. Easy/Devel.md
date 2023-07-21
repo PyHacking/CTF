@@ -7,7 +7,7 @@ lastmod = 2023-07-18
 draft = false
 +++
 
-The `Devel` machine is an easy linux box.
+The `Devel` machine is an easy windows box.
 
 ![Scenario 1: Across columns](/images/Devel.png#center)
 
