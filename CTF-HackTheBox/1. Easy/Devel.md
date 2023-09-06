@@ -9,7 +9,6 @@ draft = false
 
 The `Devel` machine is an easy windows box.
 
-![Scenario 1: Across columns](/images/Devel.png#center)
 
 ### Nmap Scan
 

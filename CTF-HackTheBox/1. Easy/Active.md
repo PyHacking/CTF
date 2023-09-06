@@ -9,8 +9,6 @@ draft = false
 
 The `Active` machine is an easy windows box.
 
-![Scenario 1: Across columns](/images/Active.png#center)
-
 ## Nmap Scan
 
 I do a `nmap scan`:

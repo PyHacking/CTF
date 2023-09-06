@@ -9,8 +9,6 @@ draft = false
 
 The `Beep` machine is an easy linux box.
 
-![Scenario 1: Across columns](/images/Beep.png#center)
-
 
 ## Nmap Scan
 

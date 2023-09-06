@@ -9,8 +9,6 @@ draft = false
 
 The `SteamCloud` machine is an easy linux box.
 
-![Scenario 1: Across columns](/images/SteamCloud.png#center)
-
 ## Nmap Scan
 
 I do a `nmap scan`:

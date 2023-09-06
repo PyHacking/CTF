@@ -9,7 +9,6 @@ draft = false
 
 The `Academy` machine is an easy linux box.
 
-![Scenario 1: Across columns](/images/Academy.png#center)
 
 ## Nmap Scan
 
